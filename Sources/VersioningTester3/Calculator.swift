@@ -18,4 +18,6 @@ public class Calculator {
     }
     
     public static var name = "Calculator"
+    
+    public static var name2 = "Calculator 2"
 }
