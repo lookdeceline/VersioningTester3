@@ -20,4 +20,6 @@ public class Calculator {
     public static var name = "Calculator"
     
     public static var name2 = "Calculator 2"
+    
+    public static var name3 = "Calculator 3"
 }
